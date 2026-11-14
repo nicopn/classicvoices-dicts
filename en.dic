@@ -39,7 +39,7 @@ childcare	~~"tSaIld%kEr\~~	0	2
 \b(ai|are|ca|could|dare|did|do|does|had|has|have|is|might|must|need|ought|sha|should|was|were|wo|would)nt\b	\1n't	0	1
 hadestown	~~"heIdiz%taUn~~	0	2
 \bkilo(s?)\b	~~"kiloU~~\1	0	1
-soledad	~~%soUl@"dAd~~	0	2
+soledad	~~%soUl@"d{d~~	0	2
 \bpunchline	~~"pVntS%laIn~~	0	1
 hyper	~~"haIp@`~~	0	2
 chess	~~"tSEs~~	0	2
@@ -84,7 +84,7 @@ pasting	~~"peIstIN~~	0	2
 regions	~~"r\idZ@nz~~	0	2
 \banaphora	~~@"n{f@r\@~~	0	1
 polysindaton	~~%pAli"sInd@%tAn~~	0	2
-asyndaton	~~@"sInd@%tAn~~	0	0
+asyndaton	~~%eI"sInd@%tAn~~	0	0
 \bsubstring	~~"sVb%str\IN~~	0	1
 dinah	~~"daIn@~~	0	2
 unreadable	~~Vn"r\id@b@l~~	0	2
@@ -140,7 +140,7 @@ snowmen	~~"snoU%mEn~~	0	2
 santa	~~"s{nt@~~	0	2
 \bbrainwave	~~"br\eIn%weIv~~	0	1
 \basymptote	~~"{sImp%toUt~~	0	1
-vaseline	~~%v{s@"lin~~	0	2
+vaseline	~~"v{s@lin~~	0	2
 \bbookend	~~"bUk%End~~	0	1
 \bcaregiver	~~"kEr\%gIv@`~~	0	1
 \bbabysitter	~~"beIbi%sI4@`~~	0	1
@@ -154,7 +154,7 @@ faouzia	~~foU"zi@~~	0	2
 \bepub	~~"i%pVb~~	0	1
 Gryffindor	~~"gr\If@n%dOr\~~	0	2
 Ravenclaw	~~"r\eIv@n%klO~~	0	2
-Slytherin	~~"slIT@r\In~~	0	2
+Slytherin	~~"slID@r\In~~	0	2
 altitude	~~"{ltI%tud~~	0	2
 cylinders	~~"sIl@nd@`z~~	0	2
 doctorow	~~"dAkt@%r\oU~~	0	2
