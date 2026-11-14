@@ -1,4 +1,4 @@
-﻿schoology	~~"skul@dZi~~	0	0
+schoology	~~"skul@dZi~~	0	0
 noises	~~"nOIzIz~~	0	2
 detention	~~dI"tEnS@n~~	0	2
 plants	~~"pl{nts~~	0	2
@@ -216,3 +216,21 @@ facetime	~~"feIs%taIm~~	0	2
 \bmentor	~~"mEnt@`~~	0	1
 bioengineering	~~%baIoU%EndZ@"nIr\IN~~	0	2
 proled	~~"pr\oU%lEd~~	0	2
+unreliable	unrlyable	0	2
+forcefield	forsfield	0	2
+placeholder	place-holder	0	2
+sbyw	SBYW	1	2
+crayon	crayawn	0	2
+netnewswire	Net News Wire	0	2
+en-au	en A-U	0	2
+applevis	Apple Viz	0	2
+fastsmrw	Fast SMRW,	0	2
+gobin	goabin	0	2
+(?<=\w)\.(?=[a-zA-Z]+\b)	 dot 	0	1
+debian	debbian	0	2
+chatgpt	Chat GPT	0	2
+ntfy	N T F Y	0	2
+applescript	Apple Script	0	2
+nvda	NVDA	0	2
+ini	i-N-I	0	2
+exe	E X E	0	2
