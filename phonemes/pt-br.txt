@@ -1,0 +1,9 @@
+# Portuguese (Brazil): added to pt.txt, or replacing its line for the same sound.
+a~	canto
+a~j~	mãe
+a~w~	mão
+e~j~	bem
+# x: the r of carro and rato; the voice, like São Paulo, says it as h
+x	carro
+# J: in banho, minha the voice says a nasal j, as many Brazilians do; nhoque keeps the real J
+J	nhoque

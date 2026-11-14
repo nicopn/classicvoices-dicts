@@ -1,0 +1,3 @@
+# French (Canada): no lines differ from fr.txt; the phonemes are the same.
+# The Canadian voice says the four nasal vowels with other qualities (brin e~, brun 2~, lent {~, long o~),
+# and keeps A (pâte) apart from a (patte), which the French voice merges.

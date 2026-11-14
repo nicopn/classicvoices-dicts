@@ -1,0 +1,3 @@
+# Spanish (Mexico): no lines differ from es.txt.
+# Mexican Spanish has no T (caza sounds like casa: seseo) and no L (pollo sounds like poyo: yeísmo);
+# an override file can't remove a line, so es.txt's T and L stay in the list.

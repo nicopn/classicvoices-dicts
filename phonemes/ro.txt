@@ -1,0 +1,34 @@
+# Romanian. X-SAMPA<TAB>example word. Minimal pairs where Romanian has them.
+i	rid
+e	mere
+a	rad
+@	măr
+1	râd
+o	rod
+u	mur
+# j, w: the glide forms of i and u; e_^a, o_^a: the diphthongs ea, oa
+# the glide i (iarnă) is a non-syllabic i, as the voice says it
+i_^	iarnă
+w	rău
+e_^a	seară
+o_^a	soare
+p	par
+b	bar
+t	tare
+d	dare
+k	cal
+g	gol
+f	fin
+v	vin
+s	sare
+z	zare
+S	șoc
+Z	joc
+ts	țară
+tS	cer
+dZ	ger
+h	haină
+m	mor
+n	nor
+l	lac
+r	rac

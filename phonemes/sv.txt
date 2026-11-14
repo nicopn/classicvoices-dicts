@@ -1,0 +1,45 @@
+# Swedish (sv-SE). X-SAMPA phoneme<TAB>example word
+# The two word accents (accent 1 and 2) are left out for now.
+# The tj sound is written C as in Swedish SAMPA (IPA ɕ, X-SAMPA s\): the voice reads C, s\ gives no sound yet.
+i:	vit
+I	vitt
+e:	hel
+e	hell
+E:	häl
+E	häll
+y:	byta
+Y	bytt
+}:	ful
+8	full
+u:	bot
+U	bott
+o:	mål
+O	moll
+A:	mat
+a	matt
+2:	nöt
+9	nött
+@	pojke
+p	pil
+b	bil
+t	tak
+d	dag
+k	kall
+g	gall
+f	fin
+v	vin
+s	sal
+x\	sjuk
+C	tjugo
+h	hand
+j	ja
+l	lång
+r	rätt
+m	mamma
+n	natt
+N	ring
+t`	kort
+d`	bord
+n`	barn
+l`	pärla
+s`	fors

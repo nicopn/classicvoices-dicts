@@ -1,0 +1,40 @@
+# French (France). X-SAMPA<TAB>example word. Minimal pairs where French has them.
+i	lit
+e	fée
+E	fait
+a	patte
+# A: pâte/patte; many speakers in France (and the fr-FR voice) say both with a
+A	pâte
+O	sotte
+o	saute
+u	loup
+y	lu
+2	jeûne
+9	jeune
+@	le
+E~	brin
+9~	brun
+A~	lent
+O~	long
+j	pied
+w	oui
+H	huit
+p	pain
+b	bain
+t	tant
+d	dent
+k	camp
+g	gant
+f	fin
+v	vin
+s	poisson
+z	poison
+S	chou
+Z	joue
+m	main
+n	nain
+# J: the fr-FR voice says n + j for it (ligne, montagne)
+J	montagne
+N	parking
+l	lent
+R	rang

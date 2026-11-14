@@ -1,0 +1,7 @@
+# Portuguese (Portugal): added to pt.txt.
+# @: the reduced e of Portugal (de, pede), phonetically ɨ; written @ as in Portuguese SAMPA
+@	de
+6~	canto
+6~j~	mãe
+6~w~	mão
+R	carro

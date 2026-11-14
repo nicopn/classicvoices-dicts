@@ -1,0 +1,30 @@
+# Turkish (tr-TR)
+# ğ (yumuşak g) is left out: it has no sound of its own (it lengthens the vowel before it, dağ, or is a glide), and the voice says nothing for it
+i	kil
+M	kıl
+e	kel
+a	kal
+o	kol
+u	kul
+y	kül
+2	göl
+p	pas
+b	bas
+t	ter
+d	der
+k	kar
+g	gar
+f	fal
+v	var
+s	sor
+z	zor
+S	şal
+Z	garaj
+tS	çam
+dZ	cam
+h	hal
+m	mal
+n	nal
+l	laf
+4	raf
+j	yaz

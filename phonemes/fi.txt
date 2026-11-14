@@ -1,0 +1,29 @@
+# Finnish (fi-FI). X-SAMPA phoneme<TAB>example word
+# Long vowels and long (double) consonants add : (tuuli = t u: l i, kello = k e l: o).
+# Diphthongs (ai, ei, uo, ie, yö...) are two vowels in a row, so they have no lines of their own.
+# b, g, f and S are only in loanwords.
+A	sata
+e	setä
+i	sitä
+o	sota
+u	susi
+y	kylä
+{	tämä
+2	pöly
+p	pala
+b	baari
+t	tuli
+d	sade
+k	kala
+g	gorilla
+f	filmi
+s	sana
+S	shakki
+h	hai
+v	vesi
+j	jalka
+l	lumi
+r	rata
+m	maa
+n	nenä
+N	kenkä

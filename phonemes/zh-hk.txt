@@ -1,0 +1,43 @@
+# Cantonese (zh-HK). Its own full list, not an override of zh.txt. Tones are left out for now (segments only).
+# Long a: and short 6 in pairs (三/心, 街/雞, 交/狗). Consonants in the frame _a (爸 怕 媽 花, 打 他 那 啦 ...).
+# The final p t k (濕 一 食) are unreleased; they are the same p t k as at the start.
+a:	三
+6	心
+E:	車
+9:	靴
+8	出
+i:	詩
+O:	歌
+u:	姑
+y:	書
+a:i	街
+6i	雞
+a:u	交
+6u	狗
+ei	四
+Oi	開
+ou	好
+# 杯's vowel is u followed by y (both listed): written uy it would become another diphthong
+8y	水
+iu	笑
+p	爸
+p_h	怕
+m	媽
+f	花
+t	打
+t_h	他
+n	那
+l	啦
+k	家
+k_h	卡
+k_w	瓜
+k_w_h	誇
+N	牙
+h	蝦
+ts	渣
+ts_h	茶
+s	沙
+j	也
+w	話
+m=	唔
+N=	五

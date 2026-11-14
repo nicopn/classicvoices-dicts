@@ -1,0 +1,41 @@
+# Mandarin Chinese (zh-CN, also used for zh-TW). Tones are left out for now (segments only).
+# Every example is written the same in simplified and traditional characters.
+# Consonants in sets that share a final where Chinese allows: 八 爬 麻 法, 大 他 那 拉, 哥 可 喝, 知 吃 日, 子 次 思.
+# Not listed: the vowel after z c s and zh ch sh r (子, 知); no X-SAMPA reaches the voice's own vowel there yet.
+a	爸
+o	波
+7	色
+i	米
+u	不
+y	女
+@	本
+@`	二
+E	也
+aI	白
+eI	杯
+aU	包
+oU	狗
+p	八
+p_h	爬
+m	麻
+f	法
+t	大
+t_h	他
+n	那
+l	拉
+k	哥
+k_h	可
+x	喝
+ts\	家
+ts\_h	七
+s\	西
+ts`	知
+ts`_h	吃
+s`	十
+z`	日
+ts	子
+ts_h	次
+s	思
+N	方
+j	牙
+w	我

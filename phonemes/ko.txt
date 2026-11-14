@@ -1,0 +1,35 @@
+# Korean (ko-KR). Vowels in the frame t_l (달 돌 둘 들 덜) where Korean has the word.
+# ㅓ is written O, as the voice says it (also written V elsewhere).
+# Plain, aspirated and tense stops in triples (불 풀 뿔). The tense consonants (ㅃ ㄸ ㄲ ㅉ ㅆ) are written
+# with * (p* 뿔), as Korean linguistics writes them; X-SAMPA itself has no mark for them.
+# ㄹ is one sound: l at the end of a syllable (말), a tap between vowels (사랑); only l is listed.
+i	길
+e	게
+E	개
+a	달
+o	돌
+u	둘
+M	들
+O	덜
+2	뇌
+p	불
+p_h	풀
+t	달
+t_h	탈
+k	공
+k_h	콩
+tS	자다
+tS_h	차다
+s	사다
+h	하다
+m	말
+n	날
+N	방
+l	별
+j	여름
+w	과자
+p*	뿔
+t*	딸
+k*	꿀
+tS*	짜다
+s*	싸다

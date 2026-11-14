@@ -1,0 +1,36 @@
+# Portuguese: the sounds Portugal and Brazil share. X-SAMPA<TAB>example word.
+# pt-pt.txt and pt-br.txt add each country's own sounds (nasal a, the r of carro, ...).
+i	vi
+e	ele
+E	ela
+a	pá
+6	uva
+O	avó
+o	avô
+u	tu
+i~	cinto
+e~	sento
+o~	conto
+u~	mundo
+o~j~	põe
+u~j~	muito
+j	pai
+w	pau
+p	pato
+b	bato
+t	tom
+d	dom
+k	cola
+g	gola
+f	faca
+v	vaca
+s	caça
+z	casa
+S	chá
+Z	já
+m	cama
+n	cana
+J	banho
+l	fila
+L	filha
+4	caro

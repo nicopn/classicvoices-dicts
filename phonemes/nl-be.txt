@@ -1,0 +1,3 @@
+# Belgian Dutch (nl-BE): only the lines that differ from nl.txt.
+# The Belgian voice says the w of "wat" as a real w (bilabial), not the Netherlands P.
+w	wat

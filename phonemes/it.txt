@@ -1,0 +1,32 @@
+# Italian. X-SAMPA<TAB>example word. Minimal pairs where Italian has them.
+# Double consonants (fato/fatto) are length, not separate sounds: write them with : (t:) or doubled.
+i	fino
+e	sete
+E	sette
+a	pane
+O	notte
+o	nome
+u	mulo
+j	pieno
+w	uomo
+p	palla
+b	balla
+t	tetto
+d	detto
+k	cara
+g	gara
+f	fino
+v	vino
+s	sale
+z	rosa
+ts	zio
+dz	zona
+tS	cena
+dZ	gelo
+S	scena
+m	mano
+n	nano
+J	bagno
+l	filo
+L	figlio
+r	caro

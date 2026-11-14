@@ -1,0 +1,33 @@
+# Japanese (ja-JP). Vowels in the frame k_ (蚊 木 区 毛 子); long vowels in common family words.
+# Pitch accent is left out for now. The doubled consonant of small っ (切手) is a long consonant
+# (e.g. t:), not a sound of its own, so it has no line.
+a	蚊
+i	木
+M	区
+e	毛
+o	子
+a:	おばあさん
+i:	おじいさん
+M:	空気
+e:	姉さん
+o:	お父さん
+p	パン
+b	晩
+m	松
+n	夏
+t	天気
+d	電気
+k	柿
+g	鍵
+s	さる
+z	ざる
+S	箸
+Z	恥
+tS	口
+ts	靴
+h	花
+p\	船
+4	鳥
+j	山
+w	川
+N\	本

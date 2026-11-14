@@ -1,0 +1,29 @@
+# Greek. X-SAMPA<TAB>example word. Minimal pairs where Greek has them.
+i	πήρα
+e	πέρα
+a	πάρα
+o	πόρτα
+u	πούρα
+p	πόρτα
+b	μπόρα
+t	τώρα
+d	ντομάτα
+k	καλά
+g	γκάζι
+f	φάση
+v	βάση
+T	θέμα
+D	δέμα
+s	σώνει
+z	ζώνη
+x	χάνω
+G	γάλα
+# C, j\: the forms of x and G before e and i (χέρι, γέρος)
+C	χέρι
+j\	γέρος
+ts	τσάι
+dz	τζάκι
+m	μάτι
+n	νερό
+l	λάθος
+r	ράφι

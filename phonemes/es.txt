@@ -1,0 +1,29 @@
+# Spanish (Spain). X-SAMPA<TAB>example word. Minimal pairs where Spanish has them.
+i	pisa
+e	pesa
+a	pasa
+o	posa
+u	puso
+# j and w: the glide forms of i and u (pie, bueno)
+j	pie
+w	bueno
+p	peso
+b	beso
+t	tos
+d	dos
+k	casa
+g	gasa
+f	foca
+T	caza
+s	casa
+x	caja
+tS	ocho
+m	cama
+n	cana
+J	caña
+l	polo
+# L: pollo/poyo; most speakers (and the voices) say L as j\ (yeísmo)
+L	pollo
+j\	mayo
+r	perro
+4	pero

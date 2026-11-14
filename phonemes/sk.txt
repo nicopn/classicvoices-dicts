@@ -1,0 +1,48 @@
+# Slovak (sk-SK)
+a	pas
+a:	pás
+# ä: many speakers, and the voice, say it as e
+{	mäso
+e	dobre
+e:	dobré
+i	pila
+i:	píla
+o	kosa
+o:	gól
+u	sud
+u:	súd
+i_^a	piatok
+i_^e	biely
+i_^u	tretiu
+# ô written wo: the voice says it as w + o
+wo	kôň
+# long syllabic ŕ and ĺ (short syllabic r, l as in krk, vlk are the same sounds as r, l)
+r=:	vŕba
+l=:	vĺča
+p	piť
+b	biť
+t	tom
+d	dom
+c	ťava
+J\	ďakujem
+k	kód
+g	gól
+ts	cena
+dz	medzi
+tS	čas
+dZ	džús
+f	fáza
+v	váza
+s	kosa
+z	koza
+S	šiť
+Z	žiť
+x	chlad
+h\	hlad
+m	mám
+n	nám
+J	deň
+l	lavica
+L	ľavica
+r	rak
+j	jama

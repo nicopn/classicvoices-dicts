@@ -1,0 +1,37 @@
+# Arabic (ar-SA). Pairs where Arabic has them: تين/طين, سيف/صيف, كلب/قلب; short vowels in vowelled words.
+# Emphatics written with _?\ (pharyngealized). ر is written 4 (a tap, as the voice says it) and غ R (uvular),
+# as the voice says them (also written r and G elsewhere).
+a	دَرس
+i	مِن
+u	حُب
+a:	دار
+i:	تين
+u:	نور
+?	أم
+b	باب
+t	تين
+t_?\	طين
+T	ثوب
+dZ	جمل
+X\	حب
+x	خبز
+d	دار
+d_?\	ضيف
+D	ذهب
+D_?\	ظل
+4	رجل
+z	زيت
+s	سيف
+s_?\	صيف
+S	شمس
+?\	عين
+R	غابة
+f	فيل
+q	قلب
+k	كلب
+l	ليل
+m	موز
+n	نور
+h	هنا
+w	ورد
+j	يد
