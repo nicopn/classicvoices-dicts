@@ -39,7 +39,7 @@ childcare	~~"tSaIld%kEr\~~	0	2
 \b(ai|are|ca|could|dare|did|do|does|had|has|have|is|might|must|need|ought|sha|should|was|were|wo|would)nt\b	\1n't	0	1
 hadestown	~~"heIdiz%taUn~~	0	2
 \bkilo(s?)\b	~~"kiloU~~\1	0	1
-soledad	~~%soUl@"d{d~~	0	2
+soledad	~~"soUl@d{d~~	0	2
 \bpunchline	~~"pVntS%laIn~~	0	1
 hyper	~~"haIp@`~~	0	2
 chess	~~"tSEs~~	0	2
