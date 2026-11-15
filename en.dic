@@ -185,8 +185,8 @@ logistics	~~l@"dZIstIks~~	0	2
 bicultural	~~baI"kVltS@r\@l~~	0	2
 camerawork	~~"k{mr\@%w3`k~~	0	2
 \brhotic(it(?!y|ies))?	~~"r\oU4Ik~~\1	0	1
-\barcha?eolog(y|ists?)\b	~~%Ar\ki"Al@dZ~~\1	0	1
-\baudiologist	~~%Odi"Al@dZIst~~	0	1
+\barcha?eolog(y|ists?)\b	~~%Ar\ki"Ql@dZ~~\1	0	1
+\baudiologist	~~%Odi"Ql@dZIst~~	0	1
 offline	~~"Af%laIn~~	0	2
 diwali	~~dI"wAli~~	0	2
 \bsubscription	~~s@b"skr\IpS@n~~	0	1
@@ -218,7 +218,6 @@ bioengineering	~~%baIoU%EndZ@"nIr\IN~~	0	2
 proled	~~"pr\oU%lEd~~	0	2
 unreliable	~~%Vnr\"laI@b@l~~	0	2
 forcefield	~~"fOr\s%fild~~	0	2
-placeholder	~~"pleIs%hoUld@`~~	0	2
 sbyw	SBYW	1	2
 crayon	~~"kr\eIQn~~	0	2
 netnewswire	Net News Wire	0	2
@@ -396,6 +395,42 @@ SensorReadout	~~"sEns@`~~ Readout	0	2
 (?<![.\d])(\d+\.)(\d*?)0(?=\d*(?!\.?\d))|\G(?!^)(\d*?)0	\1\2\3o	0	1
 (?<![.\d])(\d+)\.(?=[\do]*o[\do]*(?!\.?\d))([\do])	\1 point \2	0	1
 (?<=\d point )(?=[\do]*o)([\do])([\do])|\G(?!^)([\do])	\1 \2\3	0	1
-oddware	Odd-ware	0	2
-touchscreen	Touch screen	0	2
+oddware	~~"Qd%wEr~~	0	2
+touchscreen	~~"tVtS%skrin~~	0	2
 keypress	key press	0	2
+intermodulation	~~%Int@r\%mQdZ@"leIS@n~~	0	2
+\bunsolo	~~Vn."soU.loU~~	0	1
+\bflavour	flavor	0	1
+reddit	~~"r\EdIt~~	0	2
+\bfathertree	~~"fAd@r\tr\i~~	0	1
+\bpianist	~~"pi@nIst~~	0	1
+masterclass	~~"m{st@r\kl{s~~	0	2
+avie	~~"{vi~~	0	2
+wildcards	~~"waIld%kAr\dz~~	0	2
+placeholder	~~"pleIshoUld@r\~~	0	1
+\bflyb(y|ies)\b	~~"flaIbaI~~	0	1
+\bforcefield	~~"for\sf%ild~~	0	1
+\bronan	~~"r\oUn@n~~	0	1
+\bautoclicker	~~"OtoUklIk@r\~~	0	1
+\bautofocus	~~"OtoU%foUk@s~~	0	1
+\bctype(s?)\b	~~"sitaIp~~\1	0	1
+quran	~~k@"r\An~~	0	2
+uncontrollable	~~Vnk@n"tr\oUl@b@l~~	0	2
+\bMc ([A-Z]\w+)\b	Mc\1	1	1
+\bcomparative	~~k@m"p{r@tIv~~	0	1
+\b(i|we|you|they|can('t)?|will|won't|should(n't)?|must|not) live\b	\1 ~~"lIv~~	0	1
+rereading	~~ri"ridIN~~	0	2
+\bunfathom	~~%Vn"f{D@m~~	0	1
+\bpush(es|back)\b	~~"pUS~~\1	0	1
+apush	~~"eI%pUS~~	0	2
+\bcallout(s)?	~~"kOl%aUt~~\1	0	1
+mckensie	~~m@"kEnzi~~	0	2
+\b(un)?comfortable\b	\1~~"kVmft@rb@l~~	0	1
+doubletalk	~~"dVb@l%tOk~~	0	2
+gradebook	~~"greId%bUk~~	0	2
+cowshed	~~"kaU%SEd~~	0	2
+july	~~dZ@"laI~~	0	2
+escape	~~I"skeIp~~	0	2
+emacs	~~"i%m{ks~~	0	2
+emacspeak	~~"im{k%spik~~	0	2
+laufey	~~"leIveI~~	0	2
