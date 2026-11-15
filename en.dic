@@ -386,3 +386,4 @@ appex	~~"{pEks~~	0	2
 \bunstress(ed|es|ing)?\b	~~Vn"str\Es(t|Iz|IN|)~~	0	1
 (?<=[a-zA-Z]{2})(?<!\b(?:mrs|mr|ms|dr|st|jr|sr|vs|etc|prof|vol|fig|approx|dept|est|inc|ltd))\.[ \t]+(?=[a-z])	.\n\n	0	1
 \bdestress(ed|es|ing)?\b	~~di"str\Es(t|Iz|IN|)~~	0	1
+focusrite	~~"foU.k@s.r\aIt~~	0	2
