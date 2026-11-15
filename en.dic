@@ -397,3 +397,4 @@ SensorReadout	~~"sEns@`~~ Readout	0	2
 (?<![.\d])(\d+)\.(?=[\do]*o[\do]*(?!\.?\d))([\do])	\1 point \2	0	1
 (?<=\d point )(?=[\do]*o)([\do])([\do])|\G(?!^)([\do])	\1 \2\3	0	1
 oddware	Odd-ware	0	2
+touchscreen	Touch screen	0	2
