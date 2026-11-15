@@ -390,3 +390,4 @@ focusrite	~~"foU.k@s.r\aIt~~	0	2
 exhaustion	~~Ig"zOstS@n~~	0	2
 \b([dr])ecompil(?!ation)	\1~~i.k@m."paIl~~	0	1
 \b([dr])ecompilation	\1~~i.%kQm.pI."leI.S@n~~	0	1
+SensorReadout	~~"sEns@`~~ Readout	0	2
