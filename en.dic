@@ -397,7 +397,6 @@ SensorReadout	~~"sEns@`~~ Readout	0	2
 (?<=\d point )(?=[\do]*o)([\do])([\do])|\G(?!^)([\do])	\1 \2\3	0	1
 oddware	~~"Qd%wEr~~	0	2
 touchscreen	~~"tVtS%skrin~~	0	2
-keypress	key press	0	2
 intermodulation	~~%Int@r\%mQdZ@"leIS@n~~	0	2
 \bunsolo	~~Vn."soU.loU~~	0	1
 \bflavour	flavor	0	1
@@ -429,7 +428,6 @@ mckensie	~~m@"kEnzi~~	0	2
 doubletalk	~~"dVb@l%tOk~~	0	2
 gradebook	~~"greId%bUk~~	0	2
 cowshed	~~"kaU%SEd~~	0	2
-july	~~dZ@"laI~~	0	2
 escape	~~I"skeIp~~	0	2
 emacs	~~"i%m{ks~~	0	2
 emacspeak	~~"im{k%spik~~	0	2
@@ -481,3 +479,12 @@ Kronos	~~"kroU%noUs~~	0	2
 nonstarter	~~nAn%stAr43`~~	0	2
 always	~~OK%weIz~~	0	2
 bassy	~~beIsi~~	0	2
+\bkeypress	~~"ki%prEs~~	0	1
+\bsabotage?	~~"s{b@%tAZ~~	0	1
+\bmc ?kennitt\b	~~m@"kEnIt~~	0	1
+localhost	~~"loUk@l%hoUst~~	0	2
+\btraverse	~~tr@"v3s~~	0	1
+autorun	~~"OtoU%rVn~~	0	2
+\bundeafen	~~Vn"dEf@n~~	0	1
+discord	~~"dIs%kOrd~~	0	2
+\bjuly?\b	~~dZ@"laI~~	0	1
