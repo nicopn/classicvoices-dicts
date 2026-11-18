@@ -516,4 +516,21 @@ autocorrect	~~"OtoUk@r%Ekt~~	0	2
 \beject	~~I"dZEkt~~	0	1
 json	~~"dZeI%sQn~~	0	2
 m4a	M4A	0	2
-alac	~~k{pItK=eI%K{k~~	0	2
+alac	~~eI%K{k~~	0	2
+m4v	~~"Em~~4~~"vi~~	0	2
+automix	~~O4oU%mIks~~	0	2
+jpeg	~~dZeIpEg~~	0	2
+ffmpeg	FFEmpeg	0	2
+w/	with	0	2
+addon	~~"{d%An~~	0	2
+BIOS	bios	1	2
+iDisk	~~"aI"dIsk~~	0	2
+snes	s n e s	0	2
+gamecube	GameCube	0	2
+wii	~~"wi~~	0	2
+nes	N E S	0	2
+\bjoycon(s)?\b	~~"dZOI%kAn(z|)~~	0	1
+Mon	Monday	1	2
+Wed	Wednesday	1	2
+Sat	Saturday	1	2
+Sun	Sunday	1	2
