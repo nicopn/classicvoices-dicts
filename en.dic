@@ -536,3 +536,5 @@ Sat	Saturday	1	2
 Sun	Sunday	1	2
 headtracking	~~"hEd"tr{kIN~~	0	2
 innosearch	~~"InoUs3`tS~~	0	2
+\bpropell(ed|ing|ers?)	~~pr@"pEl~~\1	0	1
+handheld	~~"h{nd%hEld~~	0	2
