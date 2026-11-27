@@ -543,3 +543,30 @@ handheld	~~"h{nd%hEld~~	0	2
 nas	~~n{s~~	0	1
 ipad	iPad	1	2
 Ugreene	~~"jugrin~~	0	2
+undeveloped	~~%VndI"vEl@pt~~	0	2
+\bshower(ing|ed)\b	~~"SaU@`~~\1	0	1
+bugfixes	~~"bVg%fIksIz~~	0	2
+chmod	C H mod	0	2
+ipsw	i p s w	0	2
+transplant	~~"tr{ns%pl{nt~~	0	2
+eleventy	~~I"lEv@nti~~	0	2
+cosecant	~~%koU"sik{nt~~	0	2
+secant	~~"sik{nt~~	0	2
+cotangent	~~%koU"t{ndZ@nt~~	0	2
+\bmotherboard	~~"mVD@`%bOrd~~	0	1
+\bthermochemi(stry|cal)\b	~~%T3mo"kEmI~~\1	0	1
+horsepower	~~"hOrs%paU@`~~	0	2
+hostname	~~"hoUst%nem~~	0	2
+gnu	~~g@"nu~~	0	2
+wikidata	~~"wIki%deIt@~~	0	2
+antinoise	~~"{nti%noIz~~	0	2
+\bpsychoacoustic(s)?\b	~~%saIkoU@"kustIk~~\1	0	1
+cotan	~~"koU%t{n~~	0	2
+weekend	~~"wik%End~~	0	2
+\buncontract	~~%Vnk@n"tr{kt~~	0	1
+spectral	~~"spEktr@l~~	0	2
+conventions	~~k@n"vEnS@nz~~	0	2
+unary	~~"jun@ri~~	0	2
+\bhotspot(s?)	~~"hQt%spQt~~\1	0	1
+bryanah	~~bri"an@~~	0	2
+redoing	~~.%ri."du.IN~~	0	2
