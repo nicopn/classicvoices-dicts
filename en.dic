@@ -541,3 +541,5 @@ handheld	~~"h{nd%hEld~~	0	2
 ^\s*[,;:.!?]+\s+(?=\S)		0	1
 \bboot(e[dr]s?|ing)\b	~~"bu4~~\1	0	1
 nas	~~n{s~~	0	1
+ipad	iPad	1	2
+Ugreene	~~"jugrin~~	0	2
