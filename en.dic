@@ -538,5 +538,4 @@ headtracking	~~"hEd"tr{kIN~~	0	2
 innosearch	~~"InoUs3`tS~~	0	2
 \bpropell(ed|ing|ers?)	~~pr@"pEl~~\1	0	1
 handheld	~~"h{nd%hEld~~	0	2
-\bp(s{1}|s{2}|s{3}|s{4}|s{5}|s{6}|s{7}|s{8}|s{9}|s{10}|s{11}|s{12}|s{13}|s{14}|s{15}|s{16}|s{17}|s{18}|s{19}|s{20}|s{21}|s{22}|s{23}|s{24}|s{25}|s{26}|s{27}|s{28}|s{29}|s{30,})t\b	~~p(s|ss|sss|ssss|sssss|ssssss|sssssss|ssssssss|sssssssss|ssssssssss|sssssssssss|ssssssssssss|sssssssssssss|ssssssssssssss|sssssssssssssss|ssssssssssssssss|sssssssssssssssss|ssssssssssssssssss|sssssssssssssssssss|ssssssssssssssssssss|sssssssssssssssssssss|ssssssssssssssssssssss|sssssssssssssssssssssss|ssssssssssssssssssssssss|sssssssssssssssssssssssss|ssssssssssssssssssssssssss|sssssssssssssssssssssssssss|ssssssssssssssssssssssssssss|sssssssssssssssssssssssssssss|ssssssssssssssssssssssssssssss)t~~	0	1
 ^\s*[,;:.!?]+\s+(?=\S)		0	1
